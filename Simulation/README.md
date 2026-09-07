@@ -1,1 +1,0 @@
-# Dynamic-Lange-Lerner-Model-
