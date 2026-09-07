@@ -1,4 +1,8 @@
+# LaTeX files
 LaTeX files/
-Base.git
-Simulation/results/
-vscode/
+
+# Simulations results
+Simulations/results/
+
+# VS Code settings
+.vscode/
